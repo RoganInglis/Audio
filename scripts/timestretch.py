@@ -4,7 +4,7 @@ import soundfile as sf
 
 from argparse import ArgumentParser
 
-from src.utils.utils import timestretch
+from audio.utils.utils import timestretch
 
 
 def main(argv):
